@@ -5,6 +5,6 @@ this should, in theory, act as a http source for ring racers servers, will likel
 
 **SETUP**
 
-simply replace the url defined in the "http_source" setting in ring racers's "ringconfig.cfg" file with "https://cocoasprinkle.github.io/fast-dl/ringracers"
+simply replace the url defined in the "http_source" setting in ring racers's "ringconfig.cfg" file with "https://lotsatella.github.io/fast-dl/ringracers"
 
 ![image](https://github.com/user-attachments/assets/43078b15-57a6-43b3-a3b9-baa4af79a09f)
